@@ -1,0 +1,10 @@
+{
+  "name": "AI Voice Tutor",
+  "description": "A real-time AI-powered voice tutor for language learning using Gemini 2.0 Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
